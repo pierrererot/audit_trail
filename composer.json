@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "flash_component": "master@dev"
+        "flash_component": "*"
     },
     "repositories": [
         {
