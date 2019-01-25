@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "flash_component": "*"
+        "flash_component": "master"
     },
     "repositories": [
         {
