@@ -9,6 +9,7 @@
         }
     ],
     "require": {
+        "phpdocumentor/graphviz": "*",
         "php": ">=7.0.0"
     },
     "repositories": [
