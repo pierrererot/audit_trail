@@ -9,8 +9,7 @@
         }
     ],
     "require": {
-        "phpdocumentor/graphviz": "*",
-        "php": ">=7.0.0"
+        "flash_component": "master@dev"
     },
     "repositories": [
         {
