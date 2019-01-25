@@ -22,5 +22,5 @@
             "url":  "https://git.inadvans.com/pierre.rerot/flash.git"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
