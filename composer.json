@@ -1,0 +1,16 @@
+{
+    "name": "audit_trail_component",
+    "description": "Audit Trail Component",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pierre REROT",
+            "email": "pierre.rerot@inadvans.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CSVBuilder\\": "InAdvans/src"
+        }
+    }
+}
