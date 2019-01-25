@@ -8,13 +8,16 @@
             "email": "pierre.rerot@inadvans.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "CSVBuilder\\": "InAdvans/src"
-        }
-    },
     "require": {
-        "php": ">=5.4.0",
-        "flash_component": "master@dev"
-    }
+        "php": ">=7.0.0",
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "git",
+            "url":  "https://git.inadvans.com/pierre.rerot/flash.git"
+        },
 }
