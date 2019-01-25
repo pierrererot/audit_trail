@@ -12,5 +12,9 @@
         "psr-4": {
             "CSVBuilder\\": "InAdvans/src"
         }
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "flash_component": "master@dev"
     }
 }
