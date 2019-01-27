@@ -1,6 +1,6 @@
 {
     "name": "audit_trail_component",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Audit Trail Component",
     "type": "library",
     "authors": [
@@ -9,10 +9,17 @@
             "email": "pierre.rerot@inadvans.com"
         }
     ],
+    "require": {
+        "flash_component": ">=1.0.1"
+    },
     "repositories": [
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "git",
+            "url":  "https://git.inadvans.com/pierre.rerot/flash.git"
         }
     ]
 }
