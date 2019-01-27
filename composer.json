@@ -1,6 +1,6 @@
 {
     "name": "audit_trail_component",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Audit Trail Component",
     "type": "library",
     "authors": [
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "flash_component": ">=1.0.1"
+        "flash_component": ">=1.0.2"
     },
     "repositories": [
         {
