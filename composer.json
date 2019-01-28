@@ -10,16 +10,12 @@
         }
     ],
     "require": {
-        "flash_component": ">=1.0.2"
+
     },
     "repositories": [
         {
             "type": "composer",
             "url": "https://asset-packagist.org"
-        },
-        {
-            "type": "git",
-            "url":  "https://git.inadvans.com/pierre.rerot/flash.git"
         }
     ],
     "minimum-stability": "dev"
