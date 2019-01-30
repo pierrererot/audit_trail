@@ -1,6 +1,6 @@
 {
     "name": "audit_trail_component",
-    "version": "1.0.8",
+    "version": "1.0.0",
     "description": "Audit Trail Component",
     "type": "library",
     "authors": [
