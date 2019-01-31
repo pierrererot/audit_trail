@@ -10,7 +10,7 @@
         }
     ],
     "require-dev": {
-        "ia/flash_component": "^1.0.1"
+        "ia/flash_component": "^1.0.0"
     },
     "repositories": [
         {
