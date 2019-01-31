@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "ia/lash_component": "~1.0.0"
+        "ia/flash_component": "~1.0.0"
     },
     "repositories": [
         {
