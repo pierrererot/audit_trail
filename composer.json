@@ -1,5 +1,5 @@
 {
-    "name": "audit_trail_component",
+    "name": "ia/audit_trail_component",
     "version": "1.0.0",
     "description": "Audit Trail Component",
     "type": "library",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "flash_component": "~1.0.0"
+        "ia/lash_component": "~1.0.0"
     },
     "repositories": [
         {
