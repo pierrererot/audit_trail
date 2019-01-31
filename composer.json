@@ -9,14 +9,10 @@
             "email": "pierre.rerot@inadvans.com"
         }
     ],
-    "require-dev": {
+    "require": {
         "ia/flash_component": "^1.0.0"
     },
     "repositories": [
-        {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        },
         {
             "type": "vcs",
             "url":  "https://github.com/pierrererot/flash.git"
