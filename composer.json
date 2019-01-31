@@ -18,10 +18,8 @@
             "url": "https://asset-packagist.org"
         },
         {
-            "type": "git",
-            "url":  "https://git.inadvans.com/pierre.rerot/flash.git"
+            "type": "vsc",
+            "url":  "https://github.com/pierrererot/flash.git"
         }
-
-    ],
-    "minimum-stability": "dev"
+    ]
 }
