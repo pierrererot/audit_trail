@@ -9,9 +9,6 @@
             "email": "pierre.rerot@inadvans.com"
         }
     ],
-    "require": {
-        "ia/flash_component": "^1.0.0"
-    },
     "repositories": [
         {
             "type": "vcs",
