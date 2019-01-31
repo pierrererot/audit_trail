@@ -10,7 +10,7 @@
         }
     ],
     "require-dev": {
-        "ia/flash_component": "dev-predis-1.x"
+        "ia/flash_component": "^1.0.0"
     },
     "repositories": [
         {
